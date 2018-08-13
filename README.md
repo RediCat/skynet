@@ -1,5 +1,5 @@
 # Red Cat
-Skynet Website for www.skynetcom. 
+Skynet Website for https://www.skynettoken.com/
 
 Welcome to SkyNet. A community-based token for the drone and aerospace market.
 
